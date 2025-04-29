@@ -1,5 +1,3 @@
 __pycache__/
-runs/diffusion_policy-PushT-v1-*
 wandb/
 *.egg-info/
-gif/*gif
